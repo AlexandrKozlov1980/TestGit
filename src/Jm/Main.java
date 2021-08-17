@@ -6,7 +6,5 @@ public class Main {
         System.out.println("Create repository");
         System.out.println("Adding new commit");
         System.out.println("Add another commit");
-        System.out.println("Create new branch");
-        System.out.println("New commit in new branch");
     }
 }
